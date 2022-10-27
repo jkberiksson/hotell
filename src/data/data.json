@@ -1,0 +1,58 @@
+[
+  {
+    "regnr": "abc123",
+    "lagerplats": "q0101"
+  },
+  {
+    "regnr": "awe843",
+    "lagerplats": "q0102"
+  },
+  {
+    "regnr": "jlf840",
+    "lagerplats": "q0103"
+  },
+  {
+    "regnr": "hdp730",
+    "lagerplats": "q0104"
+  },
+  {
+    "regnr": "abc123",
+    "lagerplats": "q0105"
+  },
+  {
+    "regnr": "abc123",
+    "lagerplats": "q0106"
+  },
+  {
+    "regnr": "hxf603",
+    "lagerplats": "q0201"
+  },
+  {
+    "regnr": "cay629",
+    "lagerplats": "q0202"
+  },
+  {
+    "regnr": "awo732",
+    "lagerplats": "q0203"
+  },
+  {
+    "regnr": "ehv946",
+    "lagerplats": "q0204"
+  },
+  {
+    "regnr": "zxc421",
+    "lagerplats": "q0205"
+  },
+  {
+    "regnr": "lho897",
+    "lagerplats": "q0206"
+  },
+  {
+    "regnr": "poi216",
+    "lagerplats": "q0301"
+  },
+  {
+    "regnr": "nsi948",
+    "lagerplats": "q0302"
+  }
+]
